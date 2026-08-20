@@ -1,19 +1,24 @@
-#  About Me:
-🔭 I’m currently working as Freelance<br>🌱 I’m currently learning
+# Olá, sou Samuel Jonas 👋
+**Engenheiro de Software Full Stack | TypeScript (React, Next.js, Node.js) & Sistemas Distribuídos**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Samuel__jonas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-jonas-b32784206/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samueljonascali@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamuelJonas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SamuelJonas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJonas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Bacharelando em Ciência da Computação pela UFAL. Atuo na arquitetura e desenvolvimento de aplicações web/mobile escaláveis, arquiteturas orientadas a eventos (RabbitMQ/BullMQ) e microsserviços.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SamuelJonas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Principais Tecnologias & Engenharia
+* **Linguagens:** TypeScript, JavaScript, Golang, SQL, Python
+* **Frontend & Mobile:** React.js, Next.js 14 (App Router), React Native (Expo), Tailwind CSS
+* **Backend & Infra:** Node.js, NestJS, RabbitMQ, Docker, PostgreSQL, Supabase, Cloudflare R2, GitHub Actions
+
+---
+
+### 📌 Projetos em Destaque
+* **CaptureAí / FlashPago:** Marketplace PWA de fotos com processamento assíncrono em fila e Cloudflare R2.
+* **Chrysalis:** Arquitetura Mobile White-Label desacoplada com React Native, Expo e SOLID.
+* **Gdash Telemetry:** Sistema distribuído de telemetria meteorológica com NestJS, Golang workers e RabbitMQ.
+
+---
+
+### 📫 Contato & Links
+* **LinkedIn:** [linkedin.com/in/samueljonas](https://www.linkedin.com/in/samuel-jonas-b32784206/)
+* **E-mail:** Samueljonascali@gmail.com
